@@ -105,21 +105,21 @@ export const dummyTestimonial = [
     {
         name: 'Sarah Connor',
         role: 'Frontend Dev @ Netflix',
-        image: assets.profile_img_1,
+        image: 'https://randomuser.me/api/portraits/women/65.jpg',
         rating: 5,
         feedback: 'The course structure is fantastic. I went from knowing nothing about React to building full-scale applications in just weeks.',
     },
     {
         name: 'Mike Ross',
         role: 'Senior Dev @ Uber',
-        image: assets.profile_img_2,
+        image: 'https://randomuser.me/api/portraits/men/91.jpg',
         rating: 4.5,
         feedback: 'Detailed explanations and great real-world examples. Highly recommended for anyone looking to upskill in backend technologies.',
     },
     {
         name: 'Emily Blunt',
         role: 'Data Scientist @ Meta',
-        image: assets.profile_img_3,
+        image: 'https://randomuser.me/api/portraits/women/44.jpg',
         rating: 5,
         feedback: 'The Python for Data Science module was exactly what I needed. Clear, concise, and packed with actionable insights.',
     },
@@ -235,7 +235,7 @@ export const dummyCourses = [
         "createdAt": "2025-01-01T08:00:00.000Z",
         "updatedAt": "2025-01-10T09:00:00.000Z",
         "__v": 1,
-        "courseThumbnail": "https://img.youtube.com/vi/CBWnBi-awSA/maxresdefault.jpg"
+        "courseThumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg"
     },
     {
         "_id": "course_002",
@@ -267,7 +267,7 @@ export const dummyCourses = [
         "createdAt": "2025-01-02T10:00:00.000Z",
         "updatedAt": "2025-01-02T10:00:00.000Z",
         "__v": 0,
-        "courseThumbnail": "https://img.youtube.com/vi/HdLIMoQkXFA/maxresdefault.jpg"
+        "courseThumbnail": "https://img.youtube.com/vi/_uQrJ0TkZlc/maxresdefault.jpg"
     },
     {
         "_id": "course_003",
@@ -301,7 +301,7 @@ export const dummyCourses = [
         "createdAt": "2025-01-03T11:00:00.000Z",
         "updatedAt": "2025-01-03T11:00:00.000Z",
         "__v": 2,
-        "courseThumbnail": "https://img.youtube.com/vi/lpx2zFkapIk/maxresdefault.jpg"
+        "courseThumbnail": "https://img.youtube.com/vi/nu_pCVPKzTk/maxresdefault.jpg"
     },
     {
         "_id": "course_004",
@@ -333,6 +333,6 @@ export const dummyCourses = [
         "createdAt": "2025-01-04T12:00:00.000Z",
         "updatedAt": "2025-01-04T12:00:00.000Z",
         "__v": 0,
-        "courseThumbnail": "https://img.youtube.com/vi/jZFaMEqEqEQ/maxresdefault.jpg"
+        "courseThumbnail": "https://img.youtube.com/vi/3Kq1MIfTWCE/maxresdefault.jpg"
     }
 ]
