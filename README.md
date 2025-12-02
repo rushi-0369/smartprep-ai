@@ -72,8 +72,8 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/lms-project.git](https://github.com/yourusername/lms-project.git)
-   cd lms-project
+   git clone https://github.com/rushi-0369/smartprep-ai.git
+   cd smartprep-ai
    ```
 2. **Setup Backend**
    ```bash
