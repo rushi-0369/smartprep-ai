@@ -481,7 +481,7 @@ export const dummyCourses = [
     createdAt: "2024-12-27T10:00:00.000Z",
     updatedAt: "2024-12-31T09:57:48.992Z",
     __v: 3,
-    courseThumbnail: "https://i.ytimg.com/vi/CMEWVn1uZpQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn5ShyN9kzSudhURGTj00ElG2w3Q",
+    courseThumbnail: "https://i.ytimg.com/vi_webp/CMEWVn1uZpQ/hqdefault.webp",
   },
   {
     _id: "course_007",
